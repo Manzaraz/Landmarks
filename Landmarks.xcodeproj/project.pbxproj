@@ -101,8 +101,8 @@
 		6125D4622BD1D8900050D239 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				6125D45D2BD1D4B40050D239 /* Landmark.swift */,
 				6125D45F2BD1D7010050D239 /* ModelData.swift */,
+				6125D45D2BD1D4B40050D239 /* Landmark.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
