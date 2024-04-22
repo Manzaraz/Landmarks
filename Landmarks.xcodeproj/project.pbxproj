@@ -199,8 +199,8 @@
 		61263C782BD5D77A00D87261 /* PageView */ = {
 			isa = PBXGroup;
 			children = (
-				61263C7B2BD5DB5000D87261 /* PageViewController.swift */,
 				61263C7F2BD5E94800D87261 /* PageView.swift */,
+				61263C7B2BD5DB5000D87261 /* PageViewController.swift */,
 				61263C7D2BD5E19A00D87261 /* FeatureCard.swift */,
 			);
 			path = PageView;
