@@ -9,11 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            LandmarkList()
-                .frame(width: 700, height: 300)
-        }
-        
+        LandmarkList()
+            .frame(minWidth: 700, minHeight: 300)
     }
 }
 
