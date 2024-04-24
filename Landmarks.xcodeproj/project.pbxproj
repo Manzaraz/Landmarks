@@ -78,6 +78,7 @@
 		61E0972B2BD87E7100E8EF07 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 619578A72BD3400E0002770F /* Hike.swift */; };
 		61E0972C2BD87E7100E8EF07 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6125D4662BD1E8000050D239 /* LandmarkList.swift */; };
 		61E0972D2BD87E7100E8EF07 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6125D45F2BD1D7010050D239 /* ModelData.swift */; };
+		61E097312BD882D000E8EF07 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E097302BD882D000E8EF07 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -155,6 +156,7 @@
 		61E097192BD87BF600E8EF07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61E0971C2BD87BF600E8EF07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		61E0971E2BD87BF600E8EF07 /* MacLandmarks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MacLandmarks.entitlements; sourceTree = "<group>"; };
+		61E097302BD882D000E8EF07 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -359,6 +361,7 @@
 			isa = PBXGroup;
 			children = (
 				61E097172BD87BF400E8EF07 /* ContentView.swift */,
+				61E097302BD882D000E8EF07 /* LandmarkDetail.swift */,
 				61E097192BD87BF600E8EF07 /* Assets.xcassets */,
 				61E0971E2BD87BF600E8EF07 /* MacLandmarks.entitlements */,
 				61E0971B2BD87BF600E8EF07 /* Preview Content */,
@@ -577,6 +580,7 @@
 				61E0972A2BD87E7100E8EF07 /* MapView.swift in Sources */,
 				61E097222BD87E7100E8EF07 /* Landmark.swift in Sources */,
 				61E097232BD87E7100E8EF07 /* LandmarkRow.swift in Sources */,
+				61E097312BD882D000E8EF07 /* LandmarkDetail.swift in Sources */,
 				61E097272BD87E7100E8EF07 /* Profile.swift in Sources */,
 				61E097252BD87E7100E8EF07 /* LandmarksApp.swift in Sources */,
 				61E0972B2BD87E7100E8EF07 /* Hike.swift in Sources */,
